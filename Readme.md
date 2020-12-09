@@ -1,1 +1,1 @@
-Initial git test
+function to check for even numbers
